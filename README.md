@@ -7,6 +7,3 @@ Used elements of the Adobe Suite to transform an image of a real-life tatoo of K
 - Recorded audio using Adobe Illustrator.   
 - Edited them together using Adobe Premiere.   
   
-
-School: University of Central Florida  
-Class: Advanced Video Production   
